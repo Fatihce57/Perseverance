@@ -6,11 +6,7 @@ window.addEventListener('scroll',()=>{
     document.querySelector('#particles-js').style.position = 'fixed'
     document.querySelector('#text12').style.color = '#000'
   }
-
 })
-
-
-
 
     particlesJS("particles-js", {
         "particles": {
